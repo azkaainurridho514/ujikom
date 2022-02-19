@@ -1,0 +1,81 @@
+.icon-hover{
+    margin-right: 5px;
+    transition: .3s;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.247);
+}
+
+.icon-hover-2{
+    margin-right: 5px;
+    transition: .3s;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.247);
+}
+
+.icon-hover:hover{
+    margin-right: 5px;
+    background: #d80303d5;
+    transform: scale(1.2);
+}
+
+.hv2{ /*parent */
+    margin-right: 5px;
+    background: #d80303d5;
+    transform: rotate(90deg);
+}
+
+.hov{    
+    position: absolute;
+}
+
+
+.d-log{
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.log:hover .d-log{
+    background: #c50101;
+}
+
+.kk{
+    border: .5px solid rgb(221, 221, 221);
+}
+
+.mmx{
+    max-height: 300px;
+}
+
+.kk2{
+    border-left: 0;
+}
+
+.hot{
+    transition: .3s;
+}
+
+.hot:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px;
+    cursor: pointer;
+}
+
+.category-h{
+    padding-left: 15px;
+}
+
+.category-h:hover{
+    background: #a70000d5;
+    color: #fff;
+    cursor: pointer;
+}
+
+.hot-brand{
+    background: #a70000d5;
+}
+
+.hot-brand:hover{
+    background: #c50101;
+}
