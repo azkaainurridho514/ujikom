@@ -1,0 +1,26 @@
+.img{
+    width: 200px;
+    display: block;
+}
+.card{
+    margin: 20px auto;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cart{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(20, 110, 162);
+    width: 30px;
+    text-align: center;
+    color: #fff;
+}
+button, p{
+    display: inline-block;
+}
+p{
+    margin: 0 10px;
+}
